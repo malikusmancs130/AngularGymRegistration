@@ -1,0 +1,23 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Malik Muhammad",
+      "lastName": "Usman",
+      "email": "usmancs130@gmail.com",
+      "mobile": 1590163053,
+      "weight": "34",
+      "height": 44,
+      "bmi": 0.01756198347107438,
+      "bmiResult": "UnderWeight",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Fitness",
+        "Sugar"
+      ],
+      "enquiryDate": "2023-02-14T23:00:00.000Z",
+      "id": 1
+    }
+  ]
+}
